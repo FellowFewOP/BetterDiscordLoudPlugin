@@ -1,2 +1,2 @@
 # BetterDiscordLoudPlugin
-Good And Loud Plugin For Better Discord
+Better Discord Loud Plugins
